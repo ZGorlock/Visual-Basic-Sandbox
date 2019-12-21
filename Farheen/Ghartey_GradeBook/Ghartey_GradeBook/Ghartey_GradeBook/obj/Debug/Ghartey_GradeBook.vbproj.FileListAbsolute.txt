@@ -1,0 +1,7 @@
+C:\Users\FGHARTEY\Desktop\Ghartey_GradeBook\Ghartey_GradeBook\Ghartey_GradeBook\bin\Debug\Ghartey_GradeBook.exe.config
+E:\Ghartey_GradeBook\Ghartey_GradeBook\Ghartey_GradeBook\bin\Debug\Ghartey_GradeBook.exe.config
+E:\Ghartey_GradeBook\Ghartey_GradeBook\Ghartey_GradeBook\obj\Debug\Ghartey_GradeBook.Form1.resources
+E:\Ghartey_GradeBook\Ghartey_GradeBook\Ghartey_GradeBook\obj\Debug\Ghartey_GradeBook.Resources.resources
+E:\Ghartey_GradeBook\Ghartey_GradeBook\Ghartey_GradeBook\obj\Debug\Ghartey_GradeBook.vbproj.GenerateResource.Cache
+C:\Users\ZGorlock\Downloads\Farheen\Ghartey_GradeBook\Ghartey_GradeBook\Ghartey_GradeBook\bin\Debug\Ghartey_GradeBook.exe.config
+C:\Users\ZGorlock\Coding\VB\Visual Studios Workspace\Farheen\Ghartey_GradeBook\Ghartey_GradeBook\Ghartey_GradeBook\bin\Debug\Ghartey_GradeBook.exe.config

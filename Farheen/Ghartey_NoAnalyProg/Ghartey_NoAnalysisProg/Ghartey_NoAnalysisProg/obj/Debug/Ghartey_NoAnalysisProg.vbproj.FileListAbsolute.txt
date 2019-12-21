@@ -1,0 +1,5 @@
+C:\Users\FGHARTEY\Desktop\Ghartey_NoAnalyProg\Ghartey_NoAnalysisProg\Ghartey_NoAnalysisProg\bin\Debug\Ghartey_NoAnalysisProg.exe.config
+C:\Users\FGHARTEY\Desktop\Ghartey_NoAnalyProg\Ghartey_NoAnalysisProg\Ghartey_NoAnalysisProg\obj\Debug\Ghartey_NoAnalysisProg.Form1.resources
+C:\Users\FGHARTEY\Desktop\Ghartey_NoAnalyProg\Ghartey_NoAnalysisProg\Ghartey_NoAnalysisProg\obj\Debug\Ghartey_NoAnalysisProg.Resources.resources
+C:\Users\FGHARTEY\Desktop\Ghartey_NoAnalyProg\Ghartey_NoAnalysisProg\Ghartey_NoAnalysisProg\obj\Debug\Ghartey_NoAnalysisProg.vbproj.GenerateResource.Cache
+C:\Users\ZGorlock\Downloads\Farheen\Ghartey_NoAnalyProg\Ghartey_NoAnalysisProg\Ghartey_NoAnalysisProg\bin\Debug\Ghartey_NoAnalysisProg.exe.config

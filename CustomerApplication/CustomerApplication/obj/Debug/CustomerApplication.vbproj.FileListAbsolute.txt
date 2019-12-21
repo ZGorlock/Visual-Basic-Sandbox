@@ -1,0 +1,13 @@
+C:\Users\ZGorlock\Coding\VB\Visual Studios Workspace\CustomerApplication\CustomerApplication\bin\Debug\CustomerApplication.exe.config
+C:\Users\ZGorlock\Coding\VB\Visual Studios Workspace\CustomerApplication\CustomerApplication\bin\Debug\CustomerApplication.exe
+C:\Users\ZGorlock\Coding\VB\Visual Studios Workspace\CustomerApplication\CustomerApplication\bin\Debug\CustomerApplication.pdb
+C:\Users\ZGorlock\Coding\VB\Visual Studios Workspace\CustomerApplication\CustomerApplication\bin\Debug\CustomerApplication.xml
+C:\Users\ZGorlock\Coding\VB\Visual Studios Workspace\CustomerApplication\CustomerApplication\obj\Debug\CustomerApplication.MainForm.resources
+C:\Users\ZGorlock\Coding\VB\Visual Studios Workspace\CustomerApplication\CustomerApplication\obj\Debug\CustomerApplication.Resources.resources
+C:\Users\ZGorlock\Coding\VB\Visual Studios Workspace\CustomerApplication\CustomerApplication\obj\Debug\CustomerApplication.NewCustomer.resources
+C:\Users\ZGorlock\Coding\VB\Visual Studios Workspace\CustomerApplication\CustomerApplication\obj\Debug\CustomerApplication.vbproj.GenerateResource.Cache
+C:\Users\ZGorlock\Coding\VB\Visual Studios Workspace\CustomerApplication\CustomerApplication\obj\Debug\CustomerApplication.exe
+C:\Users\ZGorlock\Coding\VB\Visual Studios Workspace\CustomerApplication\CustomerApplication\obj\Debug\CustomerApplication.xml
+C:\Users\ZGorlock\Coding\VB\Visual Studios Workspace\CustomerApplication\CustomerApplication\obj\Debug\CustomerApplication.pdb
+C:\Users\ZGorlock\Coding\VB\Visual Studios Workspace\CustomerApplication\CustomerApplication\obj\Debug\CustomerApplication.DeleteVerification.resources
+C:\Users\ZGorlock\Coding\VB\Visual Studios Workspace\CustomerApplication\CustomerApplication\obj\Debug\CustomerApplication.SearchCustomer.resources
